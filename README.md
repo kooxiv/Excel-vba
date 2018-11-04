@@ -3,7 +3,7 @@
 Excel 宏
 =========
 
-- 批量替换公式 示例为 批量添加 IFError(原公式,0)
+- [批量替换公式 示例为 批量添加 IFError(原公式,0)](/%E6%89%B9%E9%87%8F%E6%B7%BB%E5%8A%A0IFError.vbs)
 
        Sub addIFError0()
 
